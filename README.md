@@ -13,10 +13,13 @@
 只需要和微调的模型说：请帮我问问ccc吃饭了吗，模型便会输出你需要的命令。
 
 使用了很多项目的代码，在这里给出引用：
+
 chatglm2-6b: https://github.com/THUDM/ChatGLM2-6B
+
 微调方案：https://github.com/hiyouga/ChatGLM-Efficient-Tuning
 
 开源协议 Apache-2.0 License
+
 允许免费商用
 
 小孩子不懂事做着玩的，第一次上传仓库，如果哪里有做的有问题，请联系我：15288750162@163.com
